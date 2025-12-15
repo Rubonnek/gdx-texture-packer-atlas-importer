@@ -1,4 +1,4 @@
-# Godot GDX Texture Packer Atlas Importer
+# GDX Texture Packer Atlas Importer
 
 GDX Texture Packer atlas importer for the [Godot Game Engine](https://godotengine.org/).
 
